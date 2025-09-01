@@ -13,5 +13,16 @@
   "devDependencies": {
     "chai": "^6.0.1",
     "mocha": "^11.7.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piichiboi109/exercise-node-ci-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/piichiboi109/exercise-node-ci-app/issues"
+  },
+  "homepage": "https://github.com/piichiboi109/exercise-node-ci-app#readme"
 }
